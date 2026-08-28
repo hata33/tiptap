@@ -1,5 +1,15 @@
 # Change Log
 
+## 4.0.0-next.0
+
+### Patch Changes
+
+- 4ec655c: Pasting a YouTube iframe without a `src` attribute no longer crashes the editor. The embed is kept without a source.
+- Updated dependencies [548216e]
+- Updated dependencies [8aea2ef]
+- Updated dependencies [32c048d]
+  - @tiptap/core@4.0.0-next.0
+
 ## 3.30.3
 
 ### Patch Changes

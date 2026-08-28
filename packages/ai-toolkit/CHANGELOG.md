@@ -1,5 +1,15 @@
 # @tiptap/ai-toolkit
 
+## 0.4.1-next.0
+
+### Patch Changes
+
+- Updated dependencies [548216e]
+- Updated dependencies [8aea2ef]
+- Updated dependencies [32c048d]
+  - @tiptap/core@4.0.0-next.0
+  - @tiptap/pm@4.0.0-next.0
+
 ## 0.4.0
 
 ### Minor Changes
